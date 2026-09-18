@@ -40,7 +40,7 @@ https://github.com/GustavSO/sd-webui-model-manager/assets/65391253/7bcac98f-1600
 ### Cache, Hash, and Fetch Additional Information 🗃️
 - Cache your installed models, offering a detailed data breakdown for each model type.
 - Hash your installed models and use these hashes to retrieve additional information via the Civitai API.
-  - *Currently only fetches the orignal download url*
+  - *Currently only fetches the original download url*
 - Supports different hashing algorithms:
   - CRC-32
   - Blake3
